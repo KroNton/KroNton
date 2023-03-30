@@ -4,7 +4,7 @@
 
 🚀 On this page, you will find my contributions to various open-source projects related to robotics, including ROS packages for localization, mapping, path planning, and control of mobile robots. I also actively participate in the ROS community by providing support, contributing to discussions, and sharing my knowledge with others.
 
-💻 My expertise in programming languages such as C++, Python, and Java, combined with my experience with ROS, enables me to build reliable and efficient robotic systems. I am always seeking to learn and improve my skills, and I am open to collaboration and feedback from the community.
+💻 My expertise in programming languages such as C++, and Python, combined with my experience with ROS, enables me to build reliable and efficient robotic systems. I am always seeking to learn and improve my skills, and I am open to collaboration and feedback from the community.
 
 
 ## Projects

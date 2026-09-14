@@ -1,6 +1,6 @@
 # Hi there, I'm Kyrillos Fekry Wassef!
 
-**Senior Robotics Software Engineer & Systems Architect | Founder @ KroNton Robotics Academy**
+**Senior Robotics Software Engineer | Founder @ KroNton Robotics Academy**
 
 I am a Senior Robotics Software Engineer specializing in the architecture, deployment, and mass production of autonomous mobile robots. Currently, I architect end-to-end software platforms for mobile robot series and manage remote fleet deployments across the retail and hospitality sectors. I am deeply passionate about bridging hardware and high-level autonomy, and I am currently pursuing an MSc in Robotics Engineering at Ain Shams University.
 
